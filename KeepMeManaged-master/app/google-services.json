@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257930550941",
+    "firebase_url": "https://keepmemanaged.firebaseio.com",
+    "project_id": "keepmemanaged",
+    "storage_bucket": "keepmemanaged.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257930550941:android:f1adb89333eb7d45",
+        "android_client_info": {
+          "package_name": "com.example.lokesh.keepmemanaged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257930550941-up849rfkqs9bevmftqjg0s7hsse4a7v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lokesh.keepmemanaged",
+            "certificate_hash": "238d1e8b36bd1b17b6ac3e1d1ef6f77b4ea4a7df"
+          }
+        },
+        {
+          "client_id": "257930550941-salrsl50mkdo0doj8420rlqpa1vu321r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBiRfsdT5uSGKUD45F1W7p2WvZpxp0NA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257930550941-salrsl50mkdo0doj8420rlqpa1vu321r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
